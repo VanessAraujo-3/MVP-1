@@ -1,0 +1,179 @@
+Reclamação,Padrão da trinca?,Outras avarias observadas?,Quant de produtos defeituosos,Data fabricação,Classificação
+1,NÃO,SIM,1,01/03/21,Não Procedente
+2,SIM,NÃO,1,01/04/21,Não Procedente
+3,NÃO,NÃO,2,01/05/21,Não Procedente
+4,SIM,SIM,1,07/05/21,Não Procedente
+5,SIM,SIM,1,28/05/21,Não Procedente
+6,SIM,NÃO,5,07/07/21,Produção
+7,SIM,NÃO,2,15/09/21,Não Procedente
+8,SIM,SIM,1,17/09/21,Não Procedente
+9,SIM,SIM,1,30/09/21,Não Procedente
+10,SIM,NÃO,1,26/10/21,Não Procedente
+11,SIM,NÃO,2,28/10/21,Não Procedente
+12,SIM,SIM,1,29/10/21,Não Procedente
+13,NÃO,SIM,1,10/11/21,Não Procedente
+14,SIM,NÃO,1,26/01/22,Não Procedente
+15,SIM,NÃO,1,02/02/22,Não Procedente
+16,SIM,NÃO,2,04/02/22,Transporte
+17,SIM,NÃO,2,04/02/22,Transporte
+18,SIM,NÃO,1,17/02/22,Não Procedente
+19,SIM,NÃO,1,09/03/22,Não Procedente
+20,SIM,SIM,1,30/03/22,Não Procedente
+21,SIM,NÃO,1,31/03/22,Não Procedente
+22,SIM,NÃO,1,20/04/22,Não Procedente
+23,SIM,NÃO,1,25/04/22,Não Procedente
+24,SIM,NÃO,1,03/06/22,Não Procedente
+25,SIM,NÃO,1,08/06/22,Não Procedente
+26,SIM,NÃO,1,08/06/22,Não Procedente
+27,SIM,NÃO,1,09/06/22,Não Procedente
+28,NÃO,NÃO,1,02/08/22,Não Procedente
+29,SIM,NÃO,1,05/12/22,Não Procedente
+30,SIM,SIM,1,05/01/23,Não Procedente
+31,SIM,NÃO,1,10/01/23,Não Procedente
+32,SIM,SIM,2,23/01/23,Não Procedente
+33,NÃO,SIM,1,27/01/23,Não Procedente
+34,SIM,SIM,1,03/02/23,Não Procedente
+35,SIM,NÃO,1,01/03/23,Não Procedente
+36,SIM,SIM,1,13/04/23,Não Procedente
+37,SIM,SIM,6,20/04/23,Transporte
+38,SIM,NÃO,1,02/05/23,Não Procedente
+39,SIM,NÃO,1,05/05/23,Não Procedente
+40,SIM,SIM,2,18/05/23,Não Procedente
+41,SIM,SIM,1,24/05/23,Não Procedente
+42,SIM,SIM,3,15/06/23,Não Procedente
+43,SIM,NÃO,4,19/06/23,Não Procedente
+44,SIM,SIM,12,21/06/23,Transporte
+45,SIM,SIM,4,05/07/23,Transporte
+46,SIM,NÃO,1,26/07/23,Não Procedente
+47,SIM,NÃO,1,21/08/23,Não Procedente
+48,SIM,NÃO,4,21/08/23,Não Procedente
+49,SIM,NÃO,2,30/08/23,Produção
+50,SIM,SIM,1,04/09/23,Não Procedente
+51,SIM,NÃO,1,06/09/23,Produção
+52,SIM,NÃO,1,20/09/23,Não Procedente
+53,SIM,NÃO,1,27/09/23,Não Procedente
+54,SIM,SIM,1,01/10/23,Não Procedente
+55,SIM,SIM,3,04/10/23,Transporte
+56,SIM,SIM,1,19/10/23,Produção
+57,SIM,NÃO,1,20/10/23,Não Procedente
+58,SIM,NÃO,1,27/10/23,Não Procedente
+59,SIM,NÃO,1,01/11/23,Transporte
+60,SIM,SIM,2,17/11/23,Não Procedente
+61,SIM,SIM,1,24/11/23,Produção
+62,SIM,NÃO,1,24/11/23,Não Procedente
+63,SIM,NÃO,15,01/12/23,Produção
+64,SIM,SIM,3,01/12/23,Produção
+65,SIM,SIM,2,04/12/23,Produção
+66,SIM,SIM,3,19/12/23,Não Procedente
+67,SIM,NÃO,6,21/12/23,Transporte
+68,SIM,NÃO,6,21/12/23,Produção
+69,SIM,NÃO,1,12/01/24,Produção
+70,SIM,NÃO,30,20/01/24,Não Procedente
+71,SIM,NÃO,22,23/01/24,Produção
+72,SIM,SIM,3,23/01/24,Produção
+73,SIM,NÃO,7,01/02/24,Produção
+74,SIM,NÃO,5,02/02/24,Não Procedente
+75,SIM,NÃO,1,02/02/24,Não Procedente
+76,SIM,NÃO,4,06/02/24,Não Procedente
+77,SIM,NÃO,1,07/02/24,Produção
+78,SIM,SIM,1,14/02/24,Transporte
+79,SIM,NÃO,1,22/02/24,Produção
+80,SIM,NÃO,2,26/02/24,Produção
+81,SIM,NÃO,1,28/02/24,Não Procedente
+82,SIM,NÃO,89,01/03/24,Transporte
+83,SIM,NÃO,1,01/03/24,Produção
+84,SIM,SIM,8,01/03/24,Não Procedente
+85,SIM,NÃO,3,01/03/24,Produção
+86,SIM,NÃO,14,01/03/24,Produção
+87,SIM,NÃO,3,08/03/24,Produção
+88,SIM,SIM,9,14/03/24,Transporte
+89,SIM,SIM,4,18/03/24,Transporte
+90,SIM,NÃO,1,20/03/24,Não Procedente
+91,SIM,NÃO,3,21/03/24,Produção
+92,SIM,NÃO,1,27/03/24,Produção
+93,SIM,NÃO,3,27/03/24,Produção
+94,SIM,SIM,6,28/03/24,Produção
+95,SIM,SIM,5,28/03/24,Transporte
+96,SIM,SIM,53,01/04/24,Produção
+97,SIM,NÃO,1,01/04/24,Produção
+98,SIM,SIM,2,01/04/24,Não Procedente
+99,SIM,NÃO,11,01/04/24,Produção
+100,SIM,SIM,17,04/04/24,Produção
+101,SIM,SIM,33,04/04/24,Produção
+102,SIM,NÃO,1,04/04/24,Não Procedente
+103,SIM,SIM,2,10/04/24,Produção
+104,SIM,NÃO,1,01/05/24,Produção
+105,SIM,SIM,2,13/05/24,Produção
+106,SIM,NÃO,4,14/05/24,Não Procedente
+107,SIM,NÃO,1,14/05/24,Não Procedente
+108,SIM,NÃO,8,15/05/24,Produção
+109,SIM,NÃO,2,17/05/24,Transporte
+110,SIM,NÃO,1,20/05/24,Produção
+111,SIM,NÃO,9,21/05/24,Produção
+112,SIM,NÃO,1,29/05/24,Não Procedente
+113,SIM,SIM,2,01/06/24,Transporte
+114,SIM,NÃO,2,01/06/24,Produção
+115,SIM,NÃO,1,01/06/24,Produção
+116,SIM,NÃO,1,01/06/24,Não Procedente
+117,SIM,NÃO,1,11/06/24,Produção
+118,SIM,NÃO,1,01/07/24,Produção
+119,SIM,NÃO,1,01/07/24,Produção
+120,SIM,NÃO,1,16/07/24,Não Procedente
+121,SIM,SIM,1,16/07/24,Não Procedente
+122,SIM,NÃO,10,01/08/24,Produção
+123,SIM,NÃO,5,01/08/24,Transporte
+124,SIM,NÃO,1,01/08/24,Produção
+125,SIM,SIM,1,02/08/24,Não Procedente
+126,SIM,NÃO,1,07/08/24,Produção
+127,SIM,NÃO,1,22/08/24,Não Procedente
+128,SIM,SIM,17,01/09/24,Transporte
+129,SIM,NÃO,1,11/09/24,Não Procedente
+130,SIM,NÃO,1,23/09/24,Produção
+131,SIM,SIM,5,04/10/24,Não Procedente
+132,SIM,NÃO,57,05/10/24,Produção
+133,SIM,NÃO,15,13/10/24,Produção
+134,SIM,NÃO,3,13/10/24,Não Procedente
+135,SIM,SIM,1,16/10/24,Transporte
+136,SIM,SIM,19,25/10/24,Transporte
+137,SIM,SIM,3,01/11/24,Transporte
+138,SIM,SIM,138,12/11/24,Transporte
+139,SIM,SIM,18,27/11/24,Transporte
+140,SIM,SIM,3,05/12/24,Produção
+141,SIM,SIM,11,13/12/24,Transporte
+142,SIM,SIM,24,01/01/25,Transporte
+143,SIM,NÃO,1,12/01/25,Produção
+144,SIM,NÃO,1,16/01/25,Não Procedente
+145,SIM,SIM,8,20/01/25,Transporte
+146,SIM,NÃO,1,29/01/25,Transporte
+147,SIM,NÃO,7,16/02/25,Produção
+148,SIM,NÃO,1,17/02/25,Não Procedente
+149,SIM,SIM,7,20/02/25,Transporte
+150,SIM,SIM,4,24/02/25,Não Procedente
+151,SIM,NÃO,1,01/03/25,Não Procedente
+152,SIM,SIM,1,03/03/25,Transporte
+153,NÃO,SIM,6,20/03/25,Transporte
+154,NÃO,NÃO,1,26/03/25,Transporte
+155,NÃO,SIM,3,04/04/25,Transporte
+156,SIM,SIM,2,07/04/25,Transporte
+157,SIM,SIM,1,04/05/25,Não Procedente
+158,SIM,NÃO,1,29/05/25,Não Procedente
+159,SIM,SIM,1,,Transporte
+160,SIM,SIM,2,,Transporte
+161,SIM,SIM,10,,Não Procedente
+162,SIM,SIM,7,,Não Procedente
+163,SIM,NÃO,4,,Não Procedente
+164,SIM,NÃO,1,,Não Procedente
+165,SIM,NÃO,1,,Não Procedente
+166,SIM,NÃO,2,,Transporte
+167,SIM,NÃO,2,,Produção
+168,SIM,SIM,1,,Não Procedente
+169,SIM,SIM,5,,Não Procedente
+170,SIM,SIM,3,,Transporte
+171,SIM,NÃO,1,,Produção
+172,SIM,NÃO,1,,Transporte
+173,SIM,NÃO,11,02/04/24,Produção
+174,SIM,SIM,2,,Produção
+175,SIM,NÃO,1,,Produção
+176,SIM,NÃO,2,,Transporte
+177,SIM,NÃO,1,,Transporte
+178,SIM,SIM,6,,Transporte
